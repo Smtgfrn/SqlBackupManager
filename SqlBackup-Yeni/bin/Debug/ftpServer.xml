@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ftpBilgi>
+  <hostName>192.168.2.200</hostName>
+  <ftpDir>backUpTest</ftpDir>
+  <ftpKAdi>test</ftpKAdi>
+  <ftpSifre>1</ftpSifre>
+</ftpBilgi>
